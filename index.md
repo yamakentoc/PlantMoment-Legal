@@ -13,7 +13,8 @@ PlantMomentの法的文書を掲載しています。
 
 ## English
 
-English versions are being prepared.
+- [Privacy Policy](./privacy-en/)
+- [Terms of Use](./terms-en/)
 
 ## お問い合わせ
 
