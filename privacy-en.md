@@ -122,5 +122,5 @@ The Developer may update this Policy in response to changes in law, the App, or 
 
 For questions about this Policy or the handling of user information, contact:
 
-- Developer: Developer of PlantMoment
+- Developer: yamaken
 - Email: [yamakentoc@gmail.com](mailto:yamakentoc@gmail.com)

@@ -115,5 +115,5 @@ These Terms are governed by and construed in accordance with the laws of Japan.
 
 For questions about these Terms or the App, contact:
 
-- Developer: Developer of PlantMoment
+- Developer: yamaken
 - Email: [yamakentoc@gmail.com](mailto:yamakentoc@gmail.com)

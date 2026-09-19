@@ -122,5 +122,5 @@ Firebase Analytics、RevenueCat、Pl@ntNetおよびAppleが処理する情報の
 
 本ポリシーおよび利用者情報の取扱いに関するお問い合わせは、次の窓口へご連絡ください。
 
-- 開発者：PlantMoment開発者
+- 開発者：yamaken
 - メール：[yamakentoc@gmail.com](mailto:yamakentoc@gmail.com)
