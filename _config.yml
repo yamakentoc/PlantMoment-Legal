@@ -1,9 +1,11 @@
 title: PlantMoment Legal
-description: PlantMomentのプライバシーポリシーと利用規約
+description: PlantMomentのサポート、プライバシーポリシー、利用規約
 theme: minima
 lang: ja-JP
 header_pages:
+  - support.md
   - privacy.md
   - terms.md
+  - support-en.md
   - privacy-en.md
   - terms-en.md
